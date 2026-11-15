@@ -1,0 +1,34 @@
+{
+  "season": "Backlog Quest Season One",
+  "username": "metsmjl",
+  "earned_xp": 20,
+  "completed": [
+    {
+      "title": "Kirby's Dream Land",
+      "system": "GB",
+      "xp": 10
+    },
+    {
+      "title": "Super Mario Land",
+      "system": "GB",
+      "xp": 10
+    }
+  ],
+  "retired": [
+    "DuckTales",
+    "Donkey Kong '94"
+  ],
+  "active": {
+    "title": "Pokémon Trading Card Game",
+    "system": "GBC",
+    "master_medals": [
+      "Science",
+      "Rock",
+      "Lightning",
+      "Grass"
+    ],
+    "total_master_medals": 8,
+    "completion_xp": 50
+  },
+  "constraints": "Exclude games reserved for Bennett and Connor; user completion reports are authoritative, achievement unlocks supplement rather than override."
+}
