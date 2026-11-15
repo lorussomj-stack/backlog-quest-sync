@@ -1,13 +1,13 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-15T17:50:33+00:00",
+  "fetched_at_utc": "2026-11-15T17:59:22+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
       "GameID": 727,
       "Title": "Pokémon Trading Card Game",
       "ConsoleName": "Game Boy Color",
-      "NumAwarded": 3,
+      "NumAwarded": 6,
       "NumAwardedHardcore": 0,
       "MaxPossible": 35,
       "HighestAwardKind": null,
@@ -105,6 +105,39 @@
     }
   ],
   "recent_achievements_last_7_days": [
+    {
+      "Date": "2026-11-15 16:01:54",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Cut Down to Size",
+      "Description": "Defeat Nikki and obtain the Grass Medal",
+      "Type": "progression",
+      "AchievementID": 7329,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-15 15:53:46",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "An Evolutionary Trade",
+      "Description": "Give an Oddish to a Lass in the Grass Club and receive a Vileplume LV35 card",
+      "Type": null,
+      "AchievementID": 7404,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-14 15:25:49",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Upstaged",
+      "Description": "Defeat Isaac and obtain the Lightning Medal",
+      "Type": "progression",
+      "AchievementID": 7356,
+      "HardcoreMode": 0
+    },
     {
       "Date": "2026-11-14 04:09:20",
       "GameID": 727,
@@ -229,10 +262,34 @@
         "type": null
       },
       {
+        "id": 7329,
+        "title": "Cut Down to Size",
+        "description": "Defeat Nikki and obtain the Grass Medal",
+        "earned_at": "2026-11-15 16:01:54",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7356,
+        "title": "Upstaged",
+        "description": "Defeat Isaac and obtain the Lightning Medal",
+        "earned_at": "2026-11-14 15:25:49",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
         "id": 7357,
         "title": "Funding Cancelled",
         "description": "Defeat Rick and obtain the Science Medal",
         "earned_at": "2026-11-09 03:00:20",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7404,
+        "title": "An Evolutionary Trade",
+        "description": "Give an Oddish to a Lass in the Grass Club and receive a Vileplume LV35 card",
+        "earned_at": "2026-11-15 15:53:46",
         "hardcore_at": null,
         "type": null
       },
@@ -245,7 +302,7 @@
         "type": null
       }
     ],
-    "num_earned": 3,
+    "num_earned": 6,
     "num_possible": 35
   }
 }
