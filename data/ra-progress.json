@@ -1,0 +1,251 @@
+{
+  "username": "metsmjl",
+  "fetched_at_utc": "2026-11-15T17:50:33+00:00",
+  "source": "RetroAchievements Web API",
+  "all_games": [
+    {
+      "GameID": 727,
+      "Title": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "NumAwarded": 3,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 35,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 228,
+      "Title": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "NumAwarded": 8,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 89,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 769,
+      "Title": "Kirby & The Amazing Mirror",
+      "ConsoleName": "Game Boy Advance",
+      "NumAwarded": 2,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 54,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 504,
+      "Title": "Super Mario Land",
+      "ConsoleName": "Game Boy",
+      "NumAwarded": 11,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 34,
+      "HighestAwardKind": "beaten-softcore",
+      "HighestAwardDate": "2026-11-06T20:55:56+00:00"
+    },
+    {
+      "GameID": 789,
+      "Title": "Pokémon Pinball: Ruby & Sapphire",
+      "ConsoleName": "Game Boy Advance",
+      "NumAwarded": 6,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 54,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 878,
+      "Title": "The Lion King",
+      "ConsoleName": "SNES/Super Famicom",
+      "NumAwarded": 1,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 33,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 337,
+      "Title": "Donkey Kong Country",
+      "ConsoleName": "SNES/Super Famicom",
+      "NumAwarded": 5,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 71,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 1446,
+      "Title": "Super Mario Bros.",
+      "ConsoleName": "NES/Famicom",
+      "NumAwarded": 2,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 76,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 11259,
+      "Title": "Tekken 3",
+      "ConsoleName": "PlayStation",
+      "NumAwarded": 3,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 81,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
+    {
+      "GameID": 238,
+      "Title": "Goof Troop",
+      "ConsoleName": "SNES/Super Famicom",
+      "NumAwarded": 1,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 28,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    }
+  ],
+  "recent_achievements_last_7_days": [
+    {
+      "Date": "2026-11-14 04:09:20",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Card Collector",
+      "Description": "Collect half of the obtainable cards in the game",
+      "Type": null,
+      "AchievementID": 7374,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-14 04:08:56",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Paper Beats Rock",
+      "Description": "Defeat Gene and obtain the Rock Medal",
+      "Type": "progression",
+      "AchievementID": 7328,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-13 00:12:17",
+      "GameID": 228,
+      "GameTitle": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "Title": "Another Kind of Flying",
+      "Description": "Collect a P-Balloon",
+      "Type": null,
+      "AchievementID": 2251,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-12 23:58:58",
+      "GameID": 228,
+      "GameTitle": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "Title": "Ludwig's Last Symphony",
+      "Description": "Defeat Ludwig von Koopa of Castle #4",
+      "Type": null,
+      "AchievementID": 2262,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-12 00:40:44",
+      "GameID": 228,
+      "GameTitle": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "Title": "Lemmy Down Slowly",
+      "Description": "Defeat Lemmy Koopa of Castle #3",
+      "Type": null,
+      "AchievementID": 2261,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-10 03:57:37",
+      "GameID": 228,
+      "GameTitle": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "Title": "Morton Enough",
+      "Description": "Defeat Morton Koopa Jr. of Castle #2",
+      "Type": null,
+      "AchievementID": 347,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-10 03:08:03",
+      "GameID": 228,
+      "GameTitle": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "Title": "I Believe I Can Fly",
+      "Description": "Collect a feather",
+      "Type": null,
+      "AchievementID": 4874,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-09 03:52:48",
+      "GameID": 228,
+      "GameTitle": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "Title": "I is for Icky Iggy",
+      "Description": "Defeat Iggy Koopa of Castle #1",
+      "Type": "progression",
+      "AchievementID": 2253,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-09 03:50:23",
+      "GameID": 228,
+      "GameTitle": "Super Mario World",
+      "ConsoleName": "SNES/Super Famicom",
+      "Title": "Unleash The Dragon",
+      "Description": "Collect 5 Dragon Coins in a level",
+      "Type": null,
+      "AchievementID": 341,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-09 03:00:20",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Funding Cancelled",
+      "Description": "Defeat Rick and obtain the Science Medal",
+      "Type": "progression",
+      "AchievementID": 7357,
+      "HardcoreMode": 0
+    }
+  ],
+  "pokemon_tcg_gbc": {
+    "id": 727,
+    "title": "Pokémon Trading Card Game",
+    "earned": [
+      {
+        "id": 7328,
+        "title": "Paper Beats Rock",
+        "description": "Defeat Gene and obtain the Rock Medal",
+        "earned_at": "2026-11-14 04:08:56",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7357,
+        "title": "Funding Cancelled",
+        "description": "Defeat Rick and obtain the Science Medal",
+        "earned_at": "2026-11-09 03:00:20",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7374,
+        "title": "Card Collector",
+        "description": "Collect half of the obtainable cards in the game",
+        "earned_at": "2026-11-14 04:09:20",
+        "hardcore_at": null,
+        "type": null
+      }
+    ],
+    "num_earned": 3,
+    "num_possible": 35
+  }
+}
