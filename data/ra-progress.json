@@ -1,13 +1,13 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-16T15:52:07+00:00",
+  "fetched_at_utc": "2026-11-17T09:14:58+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
       "GameID": 727,
       "Title": "Pokémon Trading Card Game",
       "ConsoleName": "Game Boy Color",
-      "NumAwarded": 8,
+      "NumAwarded": 17,
       "NumAwardedHardcore": 0,
       "MaxPossible": 35,
       "HighestAwardKind": null,
@@ -105,6 +105,105 @@
     }
   ],
   "recent_achievements_last_7_days": [
+    {
+      "Date": "2026-11-17 03:12:59",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Grand Master of Flame",
+      "Description": "Defeat Courtney in the Pokémon Dome",
+      "Type": "progression",
+      "AchievementID": 7398,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-17 02:57:12",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Tech Tamed",
+      "Description": "Defeat any of Tech Aaron's decks at Dr. Mason's Laboratory",
+      "Type": null,
+      "AchievementID": 7414,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-17 01:32:41",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Met His Match",
+      "Description": "Defeat Mitch and obtain the Fighting Medal",
+      "Type": "progression",
+      "AchievementID": 7359,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-16 21:56:51",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "The Mysterious Imakuni",
+      "Description": "Defeat Imakuni?",
+      "Type": null,
+      "AchievementID": 7397,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-16 21:46:23",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "A Thunderous Trade",
+      "Description": "Give an Electabuzz to a Chap in the Lightning Club and receive a promotional Electabuzz LV20 card",
+      "Type": null,
+      "AchievementID": 7407,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-16 21:45:19",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "An Energetic Trade",
+      "Description": "Help a Lad in the Fire Club with his energy problem and receive a promotional Slowpoke LV9 card",
+      "Type": "missable",
+      "AchievementID": 7405,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-16 20:18:01",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "All Dried Up",
+      "Description": "Defeat Amy and obtain the Water Medal",
+      "Type": "progression",
+      "AchievementID": 7360,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-16 18:26:24",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "A Gift from Pappy",
+      "Description": "Talk to Pappy in the Psychic Club after defeating Murray and receive a promotional Mewtwo LV60 card",
+      "Type": null,
+      "AchievementID": 7395,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-16 18:25:33",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Didn't See It Coming",
+      "Description": "Defeat Murray and obtain the Psychic Medal",
+      "Type": "progression",
+      "AchievementID": 7358,
+      "HardcoreMode": 0
+    },
     {
       "Date": "2026-11-16 02:27:06",
       "GameID": 727,
@@ -214,28 +313,6 @@
       "Type": null,
       "AchievementID": 2261,
       "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-10 03:57:37",
-      "GameID": 228,
-      "GameTitle": "Super Mario World",
-      "ConsoleName": "SNES/Super Famicom",
-      "Title": "Morton Enough",
-      "Description": "Defeat Morton Koopa Jr. of Castle #2",
-      "Type": null,
-      "AchievementID": 347,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-10 03:08:03",
-      "GameID": 228,
-      "GameTitle": "Super Mario World",
-      "ConsoleName": "SNES/Super Famicom",
-      "Title": "I Believe I Can Fly",
-      "Description": "Collect a feather",
-      "Type": null,
-      "AchievementID": 4874,
-      "HardcoreMode": 0
     }
   ],
   "pokemon_tcg_gbc": {
@@ -283,10 +360,50 @@
         "type": null
       },
       {
+        "id": 7358,
+        "title": "Didn't See It Coming",
+        "description": "Defeat Murray and obtain the Psychic Medal",
+        "earned_at": "2026-11-16 18:25:33",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7359,
+        "title": "Met His Match",
+        "description": "Defeat Mitch and obtain the Fighting Medal",
+        "earned_at": "2026-11-17 01:32:41",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7360,
+        "title": "All Dried Up",
+        "description": "Defeat Amy and obtain the Water Medal",
+        "earned_at": "2026-11-16 20:18:01",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7398,
+        "title": "Grand Master of Flame",
+        "description": "Defeat Courtney in the Pokémon Dome",
+        "earned_at": "2026-11-17 03:12:59",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
         "id": 7393,
         "title": "Super Retrieval Artist",
         "description": "Defeat Ronald the second time he challenges you and receive a promotional Super Energy Retrieval card",
         "earned_at": "2026-11-16 02:27:06",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7397,
+        "title": "The Mysterious Imakuni",
+        "description": "Defeat Imakuni?",
+        "earned_at": "2026-11-16 21:56:51",
         "hardcore_at": null,
         "type": null
       },
@@ -299,15 +416,47 @@
         "type": null
       },
       {
+        "id": 7407,
+        "title": "A Thunderous Trade",
+        "description": "Give an Electabuzz to a Chap in the Lightning Club and receive a promotional Electabuzz LV20 card",
+        "earned_at": "2026-11-16 21:46:23",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7405,
+        "title": "An Energetic Trade",
+        "description": "Help a Lad in the Fire Club with his energy problem and receive a promotional Slowpoke LV9 card",
+        "earned_at": "2026-11-16 21:45:19",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7395,
+        "title": "A Gift from Pappy",
+        "description": "Talk to Pappy in the Psychic Club after defeating Murray and receive a promotional Mewtwo LV60 card",
+        "earned_at": "2026-11-16 18:26:24",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
         "id": 7374,
         "title": "Card Collector",
         "description": "Collect half of the obtainable cards in the game",
         "earned_at": "2026-11-14 04:09:20",
         "hardcore_at": null,
         "type": null
+      },
+      {
+        "id": 7414,
+        "title": "Tech Tamed",
+        "description": "Defeat any of Tech Aaron's decks at Dr. Mason's Laboratory",
+        "earned_at": "2026-11-17 02:57:12",
+        "hardcore_at": null,
+        "type": null
       }
     ],
-    "num_earned": 8,
+    "num_earned": 17,
     "num_possible": 35
   }
 }
