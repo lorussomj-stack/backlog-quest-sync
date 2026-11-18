@@ -1,17 +1,17 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-17T09:14:58+00:00",
+  "fetched_at_utc": "2026-11-18T09:16:04+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
       "GameID": 727,
       "Title": "Pokémon Trading Card Game",
       "ConsoleName": "Game Boy Color",
-      "NumAwarded": 17,
+      "NumAwarded": 21,
       "NumAwardedHardcore": 0,
       "MaxPossible": 35,
-      "HighestAwardKind": null,
-      "HighestAwardDate": null
+      "HighestAwardKind": "beaten-softcore",
+      "HighestAwardDate": "2026-11-18T04:10:01+00:00"
     },
     {
       "GameID": 228,
@@ -105,6 +105,50 @@
     }
   ],
   "recent_achievements_last_7_days": [
+    {
+      "Date": "2026-11-18 04:10:01",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Grandest of the Masters",
+      "Description": "Defeat the final challenge and become Grand Champion",
+      "Type": "win_condition",
+      "AchievementID": 7402,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-18 04:00:25",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Grand Master of Dragon",
+      "Description": "Defeat Rod in the Pokémon Dome",
+      "Type": "progression",
+      "AchievementID": 7401,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-18 03:55:26",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Grand Master of Freeze",
+      "Description": "Defeat Jack in the Pokémon Dome",
+      "Type": "progression",
+      "AchievementID": 7400,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-18 03:22:37",
+      "GameID": 727,
+      "GameTitle": "Pokémon Trading Card Game",
+      "ConsoleName": "Game Boy Color",
+      "Title": "Grand Master of Lightning",
+      "Description": "Defeat Steve in the Pokémon Dome",
+      "Type": "progression",
+      "AchievementID": 7399,
+      "HardcoreMode": 0
+    },
     {
       "Date": "2026-11-17 03:12:59",
       "GameID": 727,
@@ -392,6 +436,38 @@
         "type": null
       },
       {
+        "id": 7399,
+        "title": "Grand Master of Lightning",
+        "description": "Defeat Steve in the Pokémon Dome",
+        "earned_at": "2026-11-18 03:22:37",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7400,
+        "title": "Grand Master of Freeze",
+        "description": "Defeat Jack in the Pokémon Dome",
+        "earned_at": "2026-11-18 03:55:26",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7401,
+        "title": "Grand Master of Dragon",
+        "description": "Defeat Rod in the Pokémon Dome",
+        "earned_at": "2026-11-18 04:00:25",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
+        "id": 7402,
+        "title": "Grandest of the Masters",
+        "description": "Defeat the final challenge and become Grand Champion",
+        "earned_at": "2026-11-18 04:10:01",
+        "hardcore_at": null,
+        "type": null
+      },
+      {
         "id": 7393,
         "title": "Super Retrieval Artist",
         "description": "Defeat Ronald the second time he challenges you and receive a promotional Super Energy Retrieval card",
@@ -456,7 +532,7 @@
         "type": null
       }
     ],
-    "num_earned": 17,
+    "num_earned": 21,
     "num_possible": 35
   }
 }
