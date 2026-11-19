@@ -1,8 +1,18 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-18T09:16:04+00:00",
+  "fetched_at_utc": "2026-11-19T09:18:48+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
+    {
+      "GameID": 534,
+      "Title": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "NumAwarded": 6,
+      "NumAwardedHardcore": 0,
+      "MaxPossible": 55,
+      "HighestAwardKind": null,
+      "HighestAwardDate": null
+    },
     {
       "GameID": 727,
       "Title": "Pokémon Trading Card Game",
@@ -105,6 +115,72 @@
     }
   ],
   "recent_achievements_last_7_days": [
+    {
+      "Date": "2026-11-19 02:31:39",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Where's The Kaboom?",
+      "Description": "Obtain the ability to place bombs while morphed",
+      "Type": "progression",
+      "AchievementID": 5765,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-19 02:30:32",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Brinstar Scanned",
+      "Description": "Download the map data for Brinstar",
+      "Type": null,
+      "AchievementID": 5766,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-19 02:29:48",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Just What I Needed",
+      "Description": "Increase your Energy capacity",
+      "Type": null,
+      "AchievementID": 5764,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-19 02:25:15",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Wish They Were Magic",
+      "Description": "Obtain Missiles",
+      "Type": "progression",
+      "AchievementID": 5762,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-19 02:19:02",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Extend Our Reach To The Stars Above",
+      "Description": "Upgrade the length of your beam",
+      "Type": null,
+      "AchievementID": 5761,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-19 02:15:16",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Keep On Rollin'",
+      "Description": "Obtain the Morph Ball ability",
+      "Type": "progression",
+      "AchievementID": 5760,
+      "HardcoreMode": 0
+    },
     {
       "Date": "2026-11-18 04:10:01",
       "GameID": 727,
@@ -345,17 +421,6 @@
       "Description": "Defeat Ludwig von Koopa of Castle #4",
       "Type": null,
       "AchievementID": 2262,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-12 00:40:44",
-      "GameID": 228,
-      "GameTitle": "Super Mario World",
-      "ConsoleName": "SNES/Super Famicom",
-      "Title": "Lemmy Down Slowly",
-      "Description": "Defeat Lemmy Koopa of Castle #3",
-      "Type": null,
-      "AchievementID": 2261,
       "HardcoreMode": 0
     }
   ],
