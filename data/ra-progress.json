@@ -1,6 +1,6 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-20T09:15:44+00:00",
+  "fetched_at_utc": "2026-11-21T08:58:15+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
@@ -410,28 +410,6 @@
       "Description": "Defeat Isaac and obtain the Lightning Medal",
       "Type": "progression",
       "AchievementID": 7356,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-14 04:09:20",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Card Collector",
-      "Description": "Collect half of the obtainable cards in the game",
-      "Type": null,
-      "AchievementID": 7374,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-14 04:08:56",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Paper Beats Rock",
-      "Description": "Defeat Gene and obtain the Rock Medal",
-      "Type": "progression",
-      "AchievementID": 7328,
       "HardcoreMode": 0
     }
   ],
