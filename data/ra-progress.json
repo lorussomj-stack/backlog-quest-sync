@@ -1,6 +1,6 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-21T08:58:15+00:00",
+  "fetched_at_utc": "2026-11-22T08:58:24+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
@@ -399,17 +399,6 @@
       "Description": "Give an Oddish to a Lass in the Grass Club and receive a Vileplume LV35 card",
       "Type": null,
       "AchievementID": 7404,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-14 15:25:49",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Upstaged",
-      "Description": "Defeat Isaac and obtain the Lightning Medal",
-      "Type": "progression",
-      "AchievementID": 7356,
       "HardcoreMode": 0
     }
   ],
