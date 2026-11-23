@@ -1,6 +1,6 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-22T08:58:24+00:00",
+  "fetched_at_utc": "2026-11-23T09:36:57+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
@@ -355,50 +355,6 @@
       "Description": "Defeat Murray and obtain the Psychic Medal",
       "Type": "progression",
       "AchievementID": 7358,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 02:27:06",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Super Retrieval Artist",
-      "Description": "Defeat Ronald the second time he challenges you and receive a promotional Super Energy Retrieval card",
-      "Type": "missable",
-      "AchievementID": 7393,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 01:15:10",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Snuffed Flame",
-      "Description": "Defeat Ken and obtain the Fire Medal",
-      "Type": "progression",
-      "AchievementID": 7355,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-15 16:01:54",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Cut Down to Size",
-      "Description": "Defeat Nikki and obtain the Grass Medal",
-      "Type": "progression",
-      "AchievementID": 7329,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-15 15:53:46",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "An Evolutionary Trade",
-      "Description": "Give an Oddish to a Lass in the Grass Club and receive a Vileplume LV35 card",
-      "Type": null,
-      "AchievementID": 7404,
       "HardcoreMode": 0
     }
   ],
