@@ -1,13 +1,13 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-23T09:36:57+00:00",
+  "fetched_at_utc": "2026-11-24T09:20:52+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
       "GameID": 534,
       "Title": "Metroid: Zero Mission",
       "ConsoleName": "Game Boy Advance",
-      "NumAwarded": 9,
+      "NumAwarded": 12,
       "NumAwardedHardcore": 0,
       "MaxPossible": 55,
       "HighestAwardKind": null,
@@ -115,6 +115,39 @@
     }
   ],
   "recent_achievements_last_7_days": [
+    {
+      "Date": "2026-11-23 18:44:26",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "The Need For Speed",
+      "Description": "Obtain the Speed Booster",
+      "Type": null,
+      "AchievementID": 5773,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-23 13:35:01",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Can I At Least Get A Hint?",
+      "Description": "Obtain the second Unknown Item",
+      "Type": null,
+      "AchievementID": 5772,
+      "HardcoreMode": 0
+    },
+    {
+      "Date": "2026-11-20 23:47:04",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Kraid's Lair Scanned",
+      "Description": "Download the map data for Kraid's Lair",
+      "Type": null,
+      "AchievementID": 5771,
+      "HardcoreMode": 0
+    },
     {
       "Date": "2026-11-20 00:27:10",
       "GameID": 534,
@@ -256,105 +289,6 @@
       "Description": "Defeat Steve in the Pokémon Dome",
       "Type": "progression",
       "AchievementID": 7399,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-17 03:12:59",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Grand Master of Flame",
-      "Description": "Defeat Courtney in the Pokémon Dome",
-      "Type": "progression",
-      "AchievementID": 7398,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-17 02:57:12",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Tech Tamed",
-      "Description": "Defeat any of Tech Aaron's decks at Dr. Mason's Laboratory",
-      "Type": null,
-      "AchievementID": 7414,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-17 01:32:41",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Met His Match",
-      "Description": "Defeat Mitch and obtain the Fighting Medal",
-      "Type": "progression",
-      "AchievementID": 7359,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 21:56:51",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "The Mysterious Imakuni",
-      "Description": "Defeat Imakuni?",
-      "Type": null,
-      "AchievementID": 7397,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 21:46:23",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "A Thunderous Trade",
-      "Description": "Give an Electabuzz to a Chap in the Lightning Club and receive a promotional Electabuzz LV20 card",
-      "Type": null,
-      "AchievementID": 7407,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 21:45:19",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "An Energetic Trade",
-      "Description": "Help a Lad in the Fire Club with his energy problem and receive a promotional Slowpoke LV9 card",
-      "Type": "missable",
-      "AchievementID": 7405,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 20:18:01",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "All Dried Up",
-      "Description": "Defeat Amy and obtain the Water Medal",
-      "Type": "progression",
-      "AchievementID": 7360,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 18:26:24",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "A Gift from Pappy",
-      "Description": "Talk to Pappy in the Psychic Club after defeating Murray and receive a promotional Mewtwo LV60 card",
-      "Type": null,
-      "AchievementID": 7395,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-16 18:25:33",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Didn't See It Coming",
-      "Description": "Defeat Murray and obtain the Psychic Medal",
-      "Type": "progression",
-      "AchievementID": 7358,
       "HardcoreMode": 0
     }
   ],
