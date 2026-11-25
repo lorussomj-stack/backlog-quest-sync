@@ -1,6 +1,6 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-24T09:20:52+00:00",
+  "fetched_at_utc": "2026-11-25T09:26:05+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
@@ -245,50 +245,6 @@
       "Description": "Obtain the Morph Ball ability",
       "Type": "progression",
       "AchievementID": 5760,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-18 04:10:01",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Grandest of the Masters",
-      "Description": "Defeat the final challenge and become Grand Champion",
-      "Type": "win_condition",
-      "AchievementID": 7402,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-18 04:00:25",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Grand Master of Dragon",
-      "Description": "Defeat Rod in the Pokémon Dome",
-      "Type": "progression",
-      "AchievementID": 7401,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-18 03:55:26",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Grand Master of Freeze",
-      "Description": "Defeat Jack in the Pokémon Dome",
-      "Type": "progression",
-      "AchievementID": 7400,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-18 03:22:37",
-      "GameID": 727,
-      "GameTitle": "Pokémon Trading Card Game",
-      "ConsoleName": "Game Boy Color",
-      "Title": "Grand Master of Lightning",
-      "Description": "Defeat Steve in the Pokémon Dome",
-      "Type": "progression",
-      "AchievementID": 7399,
       "HardcoreMode": 0
     }
   ],
