@@ -1,13 +1,13 @@
 {
   "username": "metsmjl",
-  "fetched_at_utc": "2026-11-26T09:22:26+00:00",
+  "fetched_at_utc": "2026-11-27T09:23:15+00:00",
   "source": "RetroAchievements Web API",
   "all_games": [
     {
       "GameID": 534,
       "Title": "Metroid: Zero Mission",
       "ConsoleName": "Game Boy Advance",
-      "NumAwarded": 14,
+      "NumAwarded": 15,
       "NumAwardedHardcore": 0,
       "MaxPossible": 55,
       "HighestAwardKind": null,
@@ -116,6 +116,17 @@
   ],
   "recent_achievements_last_7_days": [
     {
+      "Date": "2026-11-26 11:49:29",
+      "GameID": 534,
+      "GameTitle": "Metroid: Zero Mission",
+      "ConsoleName": "Game Boy Advance",
+      "Title": "Norfair Scanned",
+      "Description": "Download the map data for Norfair",
+      "Type": null,
+      "AchievementID": 5777,
+      "HardcoreMode": 0
+    },
+    {
       "Date": "2026-11-26 01:21:31",
       "GameID": 534,
       "GameTitle": "Metroid: Zero Mission",
@@ -168,39 +179,6 @@
       "Description": "Download the map data for Kraid's Lair",
       "Type": null,
       "AchievementID": 5771,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-20 00:27:10",
-      "GameID": 534,
-      "GameTitle": "Metroid: Zero Mission",
-      "ConsoleName": "Game Boy Advance",
-      "Title": "The Ice Woman Cometh",
-      "Description": "Obtain the Ice Beam",
-      "Type": "progression",
-      "AchievementID": 5769,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-20 00:20:57",
-      "GameID": 534,
-      "GameTitle": "Metroid: Zero Mission",
-      "ConsoleName": "Game Boy Advance",
-      "Title": "Firmly Grasp It",
-      "Description": "Obtain the Power Grip",
-      "Type": "progression",
-      "AchievementID": 5768,
-      "HardcoreMode": 0
-    },
-    {
-      "Date": "2026-11-20 00:17:09",
-      "GameID": 534,
-      "GameTitle": "Metroid: Zero Mission",
-      "ConsoleName": "Game Boy Advance",
-      "Title": "Not Sure What It Is, But I'll Take It",
-      "Description": "Obtain an Unknown Item",
-      "Type": "progression",
-      "AchievementID": 5767,
       "HardcoreMode": 0
     }
   ],
